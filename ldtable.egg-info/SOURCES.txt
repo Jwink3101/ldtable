@@ -1,0 +1,6 @@
+ldtable.py
+setup.py
+ldtable.egg-info/PKG-INFO
+ldtable.egg-info/SOURCES.txt
+ldtable.egg-info/dependency_links.txt
+ldtable.egg-info/top_level.txt
