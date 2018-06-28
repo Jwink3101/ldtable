@@ -20,7 +20,7 @@ I am not a database expert. This simple met my needs.
 
 Simply
 
-    pip install ldtable
+    pip install git+https://github.com/Jwink3101/ldtable
 
 ## Usage:
 
