@@ -1,3 +1,7 @@
+# ARCHIVED
+
+A newer and better version is at [`dicttable`](https://github.com/Jwink3101/dicttable)
+
 # ldtable
 
 A simple *in memory* database like object. Replace list of dictionaries with a fast, O(1) lookup, data structure. 
